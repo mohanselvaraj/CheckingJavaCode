@@ -12,7 +12,7 @@ public class DuplicatesInArray
             {
                 if( (strArray[i].equals(strArray[j])) && (i != j) )
                 {
-                    System.out.println("Duplicate Element is : "+strArray[i]);
+                    System.out.println("Duplicate Element in array is : "+strArray[i]);
                 }
             }
         }
